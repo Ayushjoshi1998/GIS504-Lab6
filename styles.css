@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+  width: 100%;
+  height: 80%;
+}
+
+h1 {
+font-family: Calibri, sans-sarif;
+color: #745d5a;
+width: 80%;
+}
+
+h3 {
+font-family: Calibri, sans-sarif;
+color: #745d5a;
+width: 95%;
+}
